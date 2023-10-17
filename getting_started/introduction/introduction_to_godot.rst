@@ -36,16 +36,16 @@ tremendously since its open source release in 2014.
 Some examples of games created with Godot include Ex-Zodiac and Helms of Fury.
 
 .. image:: img/introduction_ex_zodiac.png
-    :alt: Ex-Zodiac's 3D low-poly gameplay featuring enemy planes and the instructions "Hold the X button to lock-on to enemies".
+    :alt: Ex-Zodiac's 3D low-poly gameplay featuring enemy planes and the instructions "Hold the X button to lock-on to enemies
 
 .. image:: img/introduction_helms_of_fury.jpg
-    :alt: Helms of Fury's 2D top-down gameplay, featuring the player attacking, and being attacked by, different enemies. 
+    :alt: Helms of Fury's 2D top-down gameplay, featuring the player attacking, and being attacked by, different enemies
 
 As for applications, the open source pixel art drawing program Pixelorama is
 powered by Godot, and so is the voxel RPG creator RPG in a box.
 
 .. image:: img/introduction_rpg_in_a_box.png
-    :alt: RPG In a Box application, featuring a scene being set up with a playable character and environmental assets. 
+    :alt: RPG In a Box application, featuring a scene being set up with a playable character and environmental assets
 
 You can find many more examples in the `official showcase videos`_.
 
@@ -57,7 +57,7 @@ most common needs. It includes a code editor, an animation editor, a tilemap
 editor, a shader editor, a debugger, a profiler, and more.
 
 .. image:: img/introduction_editor.webp
-    :alt: Godot interface, featuring the animation tree for the playable character. 
+    :alt: Godot interface, featuring the animation tree for the playable character
 
 The team strives to offer a feature-rich game editor with a consistent user
 experience. While there is always room for improvement, the user interface keeps
